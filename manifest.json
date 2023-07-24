@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Paper Yellow",
+    "author": "Nate Bass 👨🏻"
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(250, 248, 242)",
+      "toolbar_text": "rgb(0, 0, 0)",
+      "frame": "rgb(255, 220, 106)",
+      "tab_background_text": "rgb(0, 0, 0)",
+      "toolbar_field": "rgb(225, 225, 226)",
+      "toolbar_field_text": "rgb(0, 0, 0)",
+      "tab_line": "rgb(255, 220, 106)",
+      "popup": "rgb(225, 225, 226)",
+      "popup_text": "rgb(0, 0, 0)",
+      "tab_loading": "rgb(255, 220, 106)"
+    }
+  }
+}
